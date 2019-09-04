@@ -1,0 +1,27 @@
+ @charset="UTF-8";
+ /* Unidade = 1em = 12pt = 16px = 100% */
+fieldset{
+	 border: 2px;
+	 border-style:solid;
+	 border-radius: 10px;
+	 padding:6px;
+	 border-color:rgb(140, 140, 140);
+	 margin-bottom:40px;
+}
+fieldset#All{
+	 border-color:rgb(0, 0, 140 );
+	 padding-top:25px;
+	 font-family:Verdana;
+}
+legend{
+	text-align:left;
+	font-size:16pt;
+	color:rgb(;
+}
+ 
+ form#Form input#Idad {
+	 margin-left:60px;
+ }
+ 
+
+ 

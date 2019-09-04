@@ -1,0 +1,19 @@
+ @charset="UTF-8";
+
+body{
+	text-align:justify;
+}
+img#Delivery{
+	border-top: 9px groove rgb(255, 30, 30);
+	border-bottom: 9px groove rgb(255, 30, 30);
+	border-right: 9px groove rgb(30, 255, 30);
+	border-left: 9px groove rgb(30, 255, 30);
+}
+img#Delivery2{
+	border: 9px groove rgb(255, 215, 0);
+	padding: 20px;
+	padding-right: 35px;
+}
+img#Restaurante{
+	border: 9px groove rgb(139, 69, 19);
+}
